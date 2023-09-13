@@ -3,8 +3,8 @@
 - Nombre: Juan Carlos Bonilla Muro
 - Correo: carlosbonillamuro@gmail.com
 
-Actividades del curso
-- Actividad 1
-- Actividad 2
-- Actividad 3
-- Actividad 4
+## Actividad 1
+-P01-Hola-Mundo
+-P02-Area-de-circulo
+-P03-Area-triangulo
+-P04-Paga-trabajador
