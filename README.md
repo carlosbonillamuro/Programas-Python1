@@ -3,3 +3,6 @@
 - Nombre: Juan Carlos Bonilla Muro
 - Correo: carlosbonillamuro@gmail.com
 
+Actividades del curso
+- Actividad 1
+- Actividad 2
