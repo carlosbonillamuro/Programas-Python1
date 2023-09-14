@@ -21,6 +21,14 @@
 -P17-Convertir-temperaturas
 -P18-Paga-trabajador-V2
 
+## Tarea 1
+-P09-Hipotenusa-triangulo
+-P10-Tercer-angulo
+-P11-Convertir-temperatura
+-P12-Volumen-cilindro
+-P13-Calculo-tiempo
+-P14-Numero-suerte
+
 ## Actividad 4
 -P19-Verifica-suma
 -P20-Ley-de-Newton
