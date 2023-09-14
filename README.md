@@ -12,8 +12,14 @@
 ## Actividad 2
 -P05-Promedio-de-calificaciones
 -P06-Operaciones-matematicas
+-P07-Funciones-trigonometricas
+-P08-Dividir-en-cifras
                           
-
+## Actividad 3
+-P15-Verificar-numero
+-P16-Verifica-suma
+-P17-Convertir-temperaturas
+-P18-Paga-trabajador-V2
 
 
 ## Avtividad 5
