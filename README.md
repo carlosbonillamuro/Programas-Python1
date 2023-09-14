@@ -21,6 +21,11 @@
 -P17-Convertir-temperaturas
 -P18-Paga-trabajador-V2
 
+## Actividad 4
+-P19-Verifica-suma
+-P20-Ley-de-Newton
+-P21-Aceptar-estudiante
+-P22-Tipo-angulo
 
 ## Avtividad 5
 P29-Numeros-1-100
