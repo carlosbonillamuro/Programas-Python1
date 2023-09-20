@@ -56,3 +56,10 @@ P30-Numeros-100-1
 P31-Numeros-1-200-10
 P32-numeros-suma-100
 P33-Conteo-de-numeros
+
+## Actividad 6
+
+P34-Tabla-conversion
+P35–Conjetura-collatz
+P36-Tabla-multiplicar
+P37-Tabla-multiplicar-v2
