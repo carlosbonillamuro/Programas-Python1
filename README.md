@@ -63,3 +63,12 @@ P34-Tabla-conversion
 P35–Conjetura-collatz
 P36-Tabla-multiplicar
 P37-Tabla-multiplicar-v2
+
+## Tarea 3
+
+P38-Impares-ascendente
+P39-Pares-descendente
+P40-Promedio-suma
+P41-Suma-200
+P42-Conversion-temperaturas
+P43-Numero-mayor

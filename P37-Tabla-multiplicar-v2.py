@@ -1,7 +1,7 @@
 # Imprime las tablas de 1 a n, hasta m
 import os
 while(True):
-    os.system('clear')
+    os.system('cls')
     n = int(input('Hasta que tabla quieres ? '))
     m = int(input('Hasta donde la quieres ? '))
     t=1
