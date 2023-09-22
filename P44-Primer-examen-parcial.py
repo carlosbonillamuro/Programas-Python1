@@ -7,7 +7,7 @@ while(True):
 
     print("Universidad Patio SA de CV\n")
     print("Sistema de Inscripción Congreso de Sistemas\n\n")
-
+    totalf = 0
     while (True):
         usuario = int(input('Tipo de usuario: [1] Alumno $100, [2] Trabajador $200, [3] Docente $500 ?  '))
         if usuario == 1 or usuario == 2 or usuario ==3 : break
@@ -51,7 +51,10 @@ while(True):
     print(f"\n\nTu pedido fue: {cantidad}, Tipo de Usuario: {cliente}, Tipo de paquete: {evento} \n")
     print(f"Subtotal: ${subtotal:.2f}, Con un descuento de: ${desc:.2f} por ser {cliente} de ({descuento*100}%) y un total de ${total:.2f})")
     
+    totalf=totalf+total
     res=input('\nDeseas Continuar(S/N)? ')
     if res.upper()=='N':
         break
+    
+print(f"Importe Total de la Venta:   ${totalf:.2f}\n")    
 print("\nProceso terminado")
