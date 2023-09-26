@@ -51,28 +51,36 @@
 
 ## Avtividad 5
 
-P29-Numeros-1-100
-P30-Numeros-100-1
-P31-Numeros-1-200-10
-P32-numeros-suma-100
-P33-Conteo-de-numeros
+-P29-Numeros-1-100
+-P30-Numeros-100-1
+-P31-Numeros-1-200-10
+-P32-numeros-suma-100
+-P33-Conteo-de-numeros
 
 ## Actividad 6
 
-P34-Tabla-conversion
-P35–Conjetura-collatz
-P36-Tabla-multiplicar
-P37-Tabla-multiplicar-v2
+-P34-Tabla-conversion
+-P35–Conjetura-collatz
+-P36-Tabla-multiplicar
+-P37-Tabla-multiplicar-v2
 
 ## Tarea 3
 
-P38-Impares-ascendente
-P39-Pares-descendente
-P40-Promedio-suma
-P41-Suma-200
-P42-Conversion-temperaturas
-P43-Numero-mayor
+-P38-Impares-ascendente
+-P39-Pares-descendente
+-P40-Promedio-suma
+-P41-Suma-200
+-P42-Conversion-temperaturas
+-P43-Numero-mayor
 
 ## Primer Examen
 
-P44-Primer-examen-parcial
+-P44-Primer-examen-parcial
+
+## Actividad 7
+
+-P45-Numeros-1-100
+-P46-Numeros-100-1
+-P47-Arriba-abajo
+-P48-Suma-pares-impares
+-P49-Suma-numeros
