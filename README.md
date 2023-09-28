@@ -84,3 +84,19 @@
 -P47-Arriba-abajo
 -P48-Suma-pares-impares
 -P49-Suma-numeros
+
+## Actividad 8
+
+-P50-Factorial
+-P51-Tabla-multiplicar
+-P52-Tablas-multiplicar
+-P53-Piramide-caracter
+-P54-Factorial-numeros
+
+## Tarea 4
+
+-P55-Numeros-10-en-10
+-P56-Suma-pares-2-n
+-P57-Secuencia-numeros-1
+-P58–Secuencia-numeros-2
+-P59-Secuencia-terminos-1
