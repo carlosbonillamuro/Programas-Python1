@@ -100,3 +100,11 @@
 -P57-Secuencia-numeros-1
 -P58–Secuencia-numeros-2
 -P59-Secuencia-terminos-1
+
+## Actividad 9
+
+-P60–Acceder-lista
+-P61–Cambiar-lista
+-P62–Agregar-lista
+-P63–Remover-lista
+-P64–Iterar-lista
