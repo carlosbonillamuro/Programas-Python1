@@ -108,3 +108,36 @@
 -P62–Agregar-lista
 -P63–Remover-lista
 -P64–Iterar-lista
+
+
+## Actividad 10
+
+-P65–Procesar-calificaciones
+-P66–Sumar-listas
+-P67-Dia-paga
+-P68-Nombres-edades
+-P69-Listas-aleatorios
+
+## Tarea 5
+
+-P70-Acceder-lista
+-P71-Modifcar-lista
+-P72-Remover-lista
+-P73-Lista-promedio
+
+## Actividad 11
+- P76–Trabajando-conjuntos
+- P77–Operaciones-conjuntos
+
+## Actividad 12
+
+-P80-Estudiante
+-P81-Calificaciones
+
+## Tarea 6
+
+-P83-Crear-acceder-diccionario
+-P84-Modificar-diccionario
+-P85-Agregar-diccionario
+-P86-Eliminar-diccionario
+-P87-Procesar-diccionario
