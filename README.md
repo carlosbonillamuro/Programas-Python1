@@ -133,6 +133,7 @@
 
 -P80-Estudiante
 -P81-Calificaciones
+-P82–Nombres-edades
 
 ## Tarea 6
 
