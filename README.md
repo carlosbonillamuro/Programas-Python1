@@ -152,6 +152,26 @@
 
 -P90-Segundo-examen-parcial
 
+## Funciones parte1
+
+-P91-Funcion
+-P92-Funcion-parametro
+-P93-Parametros
+-P94-Funcion-mas-parametros
+-P95-Funcion-parametros-nombre
+-P96-Funcion-parametros-por-defecto
+-P97-Funcion-suma-numeros
+-P98-Tabla-multiplicar
+-P99-Cuadro-caracter
+-P100-Numero-mayor
+-P101-Estacion-año
+-P102-Temperatura
+-P103-Suma-digitos
+-P104-Factorial
+-P105-Calificación-letra
+-P106-Suma-números-rango
+
+
 ## Actividad 18
 
 -P125-Empleado
