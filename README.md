@@ -171,6 +171,14 @@
 -P105-Calificación-letra
 -P106-Suma-números-rango
 
+## Tarea 8 
+
+-P107-Numero-menor
+-P108-Dia-semana
+-P109–Medidas-longitud
+-P110-Suma-pares-impares
+
+
 ## Actividad 14
 
 -P111-Suma-lista
