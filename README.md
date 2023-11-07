@@ -152,7 +152,7 @@
 
 -P90-Segundo-examen-parcial
 
-## Funciones parte1
+## Actividad 13
 
 -P91-Funcion
 -P92-Funcion-parametro
@@ -171,6 +171,17 @@
 -P105-Calificación-letra
 -P106-Suma-números-rango
 
+## Actividad 14
+
+-P111-Suma-lista
+-P112-Pares-lista
+-P113-Mayor-menor
+-P114-Mayores-promedio
+-P115-Pares-impares
+-P116-Aleatorios
+-P117-Nombres
+-P118Funciones
+-P119-Usar-funciones
 
 ## Actividad 18
 
