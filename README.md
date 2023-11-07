@@ -142,3 +142,10 @@
 -P85-Agregar-diccionario
 -P86-Eliminar-diccionario
 -P87-Procesar-diccionario
+
+
+## Actividad 18
+
+-P125-Empleado
+-P126-Circulo
+-P127-Rectangulo
