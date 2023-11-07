@@ -143,6 +143,13 @@
 -P86-Eliminar-diccionario
 -P87-Procesar-diccionario
 
+## Tarea 7
+
+-P88-Personas
+-P89-Numeros
+
+
+
 
 ## Actividad 18
 
