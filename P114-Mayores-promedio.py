@@ -21,8 +21,8 @@ def leerdatos():
     return datos
 
 # Programa principal
-#nums = leerdatos()
-nums = [9, 8, 7.5, 6, 9.5, 7, 10, 6, 7]
+nums = leerdatos()
+#nums = [9, 8, 7.5, 6, 9.5, 7, 10, 6, 7]
 prom = promedio(nums)
 mp = maypresprom(nums, prom)
 print('\nResumen \n')

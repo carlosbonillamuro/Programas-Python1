@@ -191,6 +191,12 @@
 -P118Funciones
 -P119-Usar-funciones
 
+## Tarea 9
+
+-P121-Suma-digitos-lista
+-P123-Calcula-factoriales
+-P124-Estadisticas-basicas
+
 ## Actividad 18
 
 -P125-Empleado
