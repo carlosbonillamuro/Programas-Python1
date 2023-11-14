@@ -206,3 +206,7 @@
 ## Tarea 10
 
 -P128-Articulo
+
+## Actividad 19
+
+-P129-Ventas
