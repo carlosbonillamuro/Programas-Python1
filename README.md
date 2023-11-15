@@ -210,3 +210,7 @@
 ## Actividad 19
 
 -P129-Ventas
+
+## Tercer Examen
+
+-P131-Tecer-examen-parcial

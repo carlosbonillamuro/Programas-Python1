@@ -22,7 +22,7 @@ class Cliente:
         for venta in self.ventas:
             total+=venta.total
             return total     
-        def __str__(self):
+    def __str__(self):
             return f'Cliente -> [ Nombre: {self.nombre:<20} RFC: {self.rfc:<12} Domicilio: {self.domicilio:<20} Correo:{self.correo:<30} ]'        
         
 class Tienda:
